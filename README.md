@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## Flutter Masterclass by Flutterando
+Lesson: A simple application that returns the result for the rule of three using Dart
